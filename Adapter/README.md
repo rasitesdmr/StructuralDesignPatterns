@@ -1,6 +1,6 @@
 # Adapter ? 
 
-<img src = "https://github.com/rasitesdmr/StructuralDesignPatterns/blob/master/image/adaptee.jpg" width = "80%" height = "50%"/>
+<img src = "https://github.com/rasitesdmr/StructuralDesignPatterns/blob/master/image/adaptee.jpg" width = "60%" height = "50%"/>
 
 * Uyumsuz arabirimlere sahip nesnelerin işbirliği yapmasına izin veren yapısal bir tasarım modelidir.
 * Bir adaptör, sahne arkasında gerçekleşen dönüştürme karmaşıklığını gizlemek için 
