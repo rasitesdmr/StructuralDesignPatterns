@@ -1,15 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="cf76c2a7-1db7-4063-a503-477fafbe539e" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Forest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Tree.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/TreeFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/TreeType.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="cf76c2a7-1db7-4063-a503-477fafbe539e" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -77,6 +69,7 @@
       <workItem from="1658946463990" duration="68000" />
       <workItem from="1658948737283" duration="633000" />
       <workItem from="1658989649434" duration="2277000" />
+      <workItem from="1658992314680" duration="783000" />
     </task>
     <servers />
   </component>
