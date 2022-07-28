@@ -1,5 +1,7 @@
 # Flyweight Design Pattern ? 
 
+<img src="https://github.com/rasitesdmr/StructuralDesignPatterns/blob/master/image/flyweight.png" width="80%" height="50%"/>
+
 * Flyweight, dilimize “sinek siklet” olarak çevrilebilir
 * “Sinek siklet”ten kasıt, ufak-tefek olan nesnelerdir.
 * Flyweight pattern , nesne üretiminden kaynaklı bellek kullanımını minimize etmemizi sağlayan bir tasarım kalıbıdır .
@@ -13,8 +15,7 @@ classların listesini tutar ve bir metot ile clienta bu listeye erişim verir.
 * Client bu metot üzerinden bir nesne üretmek istediği zaman, metot önce bu nesne elindeki listede yani nesne 
 havuzunda var mı diye bakar. Var ise bu listeden verir. Yok ise de önce bu listeye ekler sonra da eklediğini verir.
 
-
-## Flyweight Nesnesinin Durumları ?
+## 📌 Flyweight Nesnesinin Durumları ?
 * İçsel ya da asıl durum
 * Dışsal ya da ikincil durum 
 
@@ -22,5 +23,5 @@ havuzunda var mı diye bakar. Var ise bu listeden verir. Yok ise de önce bu lis
 içinde bulunduğu bağlam tarafından belirlenen durumdur.
 * Uygulamarda içsel durumu aynı ama dışsal durum farklı çok sayıda nesneye ihtiyaç duyulur.
 
-## Örnek Verelim ?
+## 📌 Örnek Verelim ?
 * Oyun yazılımında bir askerin giyisisi içsel durum iken koordinatları yani bulunduğu yer dışsal durumdur.
