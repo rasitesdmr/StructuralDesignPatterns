@@ -2,7 +2,7 @@
 * Nesneleri ağaç yapılar halinde oluşturmanıza ve ardından bu yapılarla tek tek nesnelermiş gibi çalışmanıza
 olanak tanıyan yapısal bir tasarım modelidir.
 
-<img src ="https://github.com/rasitesdmr/StructuralDesignPatterns/blob/master/image/com.png" />
+<img src ="https://github.com/rasitesdmr/StructuralDesignPatterns/blob/master/image/com.png" width="50%" height="50%"/>
 
 ## Deseni Şu Şekilde Ayırabiliriz ? 
 
