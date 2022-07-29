@@ -7,7 +7,7 @@ her zaman cepheyi kullanmak zorunda değiliz.
 Bir istemci uygulamasını karmaşık alt sistemden ayırır. Bu sayede mevcut alt sistemde değişiklik 
 yapabiliyoruz ve bir istemciyi etkilemiyoruz.
 
-# Örnek Verlim ? 
+# Örnek Verelim ? 
 
 <img src="https://github.com/rasitesdmr/StructuralDesignPatterns/blob/master/image/facede.jpg"  width="60%" height="50%"/>
 
