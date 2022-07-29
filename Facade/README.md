@@ -9,7 +9,7 @@ yapabiliyoruz ve bir istemciyi etkilemiyoruz.
 
 # Örnek Verlim ? 
 
-<img src=""/>
+<img src="https://github.com/rasitesdmr/StructuralDesignPatterns/blob/master/image/facede.jpg"  width="60%" height="50%"/>
 
 * Arabanın motorunu çalıştırıp durdurmak istiyoruz .
 * Çalıştırmak için ;
