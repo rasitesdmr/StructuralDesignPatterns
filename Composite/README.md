@@ -2,6 +2,8 @@
 * Nesneleri ağaç yapılar halinde oluşturmanıza ve ardından bu yapılarla tek tek nesnelermiş gibi çalışmanıza
 olanak tanıyan yapısal bir tasarım modelidir.
 
+<img src ="https://github.com/rasitesdmr/StructuralDesignPatterns/blob/master/image/com.png" />
+
 ## Deseni Şu Şekilde Ayırabiliriz ? 
 
 * component : kompozisyondaki tüm nesneler için temel arayüzdür. Alt kompozitleri yönetmek için yaygın
