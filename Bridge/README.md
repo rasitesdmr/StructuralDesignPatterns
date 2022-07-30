@@ -6,6 +6,8 @@
   ve uygulama olmak üzere iki gruba ayırmamızı sağlar.
 * Soyutlamalar yaparak daha esnek yapılar oluşmasını sağlar 
 
+<img src = "https://github.com/rasitesdmr/StructuralDesignPatterns/blob/master/image/problem-en.png" />
+
 * Yukarıdaki resimde şekillerimiz ve renklerimiz var bir sıkıntı yok gibi ama diyelimki üçgen eklemek istiyorum 
 kırmızı üçgen , mavi üçgen vb şekiiler eklediğimizde iş karmaşıklaşmaya başlıyor . Kalabalık bir sınıf yapısı oluyor.
 
