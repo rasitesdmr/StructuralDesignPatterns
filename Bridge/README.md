@@ -1,5 +1,7 @@
 # Bridge ?
 
+<img src = "https://github.com/rasitesdmr/StructuralDesignPatterns/blob/master/image/bridge.png" />
+
 * Birbirleriyle yakından ilişkili sınıfların birbirinden bağımsız olarak geliştirilebilen soyutlama
   ve uygulama olmak üzere iki gruba ayırmamızı sağlar.
 * Soyutlamalar yaparak daha esnek yapılar oluşmasını sağlar 
