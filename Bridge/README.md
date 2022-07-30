@@ -11,6 +11,8 @@
 * Yukarıdaki resimde şekillerimiz ve renklerimiz var bir sıkıntı yok gibi ama diyelimki üçgen eklemek istiyorum 
 kırmızı üçgen , mavi üçgen vb şekiiler eklediğimizde iş karmaşıklaşmaya başlıyor . Kalabalık bir sınıf yapısı oluyor.
 
+<img src = "https://github.com/rasitesdmr/StructuralDesignPatterns/blob/master/image/solution-en.png" />
+
 * Böyle bir hiyerarşi oluşturursak sadece şekil ekleyip istediğimiz rengi seçebiliriz .
 
 * Şimdi gelelim yapmış olduğum örneğe 
